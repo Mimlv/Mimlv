@@ -1,0 +1,4 @@
+﻿Dataset,OpenML_ID,Instances,Features,Defective,DefectRate,URL
+KC1,1067,2109,21,326,0.15457562825983878,https://www.openml.org/data/download/53950/kc1.arff
+JM1,1053,10885,21,2106,0.1934772622875517,https://www.openml.org/data/download/53936/jm1.arff
+PC1,1068,1109,21,77,0.06943192064923355,https://www.openml.org/data/download/53951/pc1.arff
